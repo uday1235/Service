@@ -110,30 +110,40 @@ export const testimonials = [
       "Uday translated our product vision into a frontend that felt premium, intuitive, and conversion-ready. The design balanced aesthetics with usability, and the experience was smooth from concept to launch.",
     name: "Aarav Mehta",
     title: "Product Lead, Digital Brand Studio",
+    avatar:
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
   },
   {
     quote:
       "The interface Uday built for our fintech product immediately felt more trustworthy and more polished. Users could navigate complex flows with confidence, and the experience helped us improve onboarding and retention.",
     name: "Nisha Verma",
     title: "Founder, LedgerFlow",
+    avatar:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
   },
   {
     quote:
       "Our supply chain team needed dashboards that were clear, fast, and operationally useful. Uday delivered a frontend that made decision-making easier and gave our internal tools a much more modern, scalable feel.",
     name: "Rahul Sinha",
     title: "Operations Director, ChainGrid",
+    avatar:
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&q=80",
   },
   {
     quote:
       "Uday created a healthcare experience that felt calm, credible, and easy to use. He paid close attention to structure and clarity, which made the product much more effective for both providers and patients.",
     name: "Priya Nair",
     title: "Program Manager, CareBridge",
+    avatar:
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=200&q=80",
   },
   {
     quote:
       "From community engagement to ecommerce flows, Uday built a digital experience that felt engaging and polished. The interface was clean, responsive, and aligned perfectly with our audience, which helped boost interaction and conversions.",
     name: "Daniel Cruz",
     title: "Growth Manager, UrbanCart",
+    avatar:
+      "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=200&q=80",
   },
 ];
 
