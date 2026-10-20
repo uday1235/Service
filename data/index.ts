@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Uday translated our product vision into a frontend that felt premium, intuitive, and conversion-ready. The design balanced aesthetics with usability, and the experience was smooth from concept to launch.",
+    name: "Aarav Mehta",
+    title: "Product Lead, Digital Brand Studio",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The interface Uday built for our fintech product immediately felt more trustworthy and more polished. Users could navigate complex flows with confidence, and the experience helped us improve onboarding and retention.",
+    name: "Nisha Verma",
+    title: "Founder, LedgerFlow",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Our supply chain team needed dashboards that were clear, fast, and operationally useful. Uday delivered a frontend that made decision-making easier and gave our internal tools a much more modern, scalable feel.",
+    name: "Rahul Sinha",
+    title: "Operations Director, ChainGrid",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Uday created a healthcare experience that felt calm, credible, and easy to use. He paid close attention to structure and clarity, which made the product much more effective for both providers and patients.",
+    name: "Priya Nair",
+    title: "Program Manager, CareBridge",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From community engagement to ecommerce flows, Uday built a digital experience that felt engaging and polished. The interface was clean, responsive, and aligned perfectly with our audience, which helped boost interaction and conversions.",
+    name: "Daniel Cruz",
+    title: "Growth Manager, UrbanCart",
   },
 ];
 
