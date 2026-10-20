@@ -105,6 +105,17 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## Contact form database
+
+The contact form stores submissions in MongoDB Atlas. Create a database user
+and allow your deployment's network access in Atlas, then copy `.env.example`
+to `.env.local` and set `MONGODB_URI` to your connection string. Optionally set
+`MONGODB_DB` to choose the database name; it defaults to `portfolio`.
+
+The API creates and writes to the `contact_submissions` collection. Configure
+the same environment variables in your deployment provider. Keep the Atlas
+connection string private and never expose it as a `NEXT_PUBLIC_` variable.
+
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>

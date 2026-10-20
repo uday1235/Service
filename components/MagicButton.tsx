@@ -14,15 +14,21 @@ const MagicButton = ({
   position,
   handleClick,
   otherClasses,
+  disabled,
+  type = "button",
 }: {
   title: string;
   icon: React.ReactNode;
   position: string;
   handleClick?: () => void;
   otherClasses?: string;
+  disabled?: boolean;
+  type?: "button" | "submit";
 }) => {
   return (
     <button
+      type={type}
+      disabled={disabled}
       className="relative inline-flex h-12 w-full md:w-60 md:mt-10 overflow-hidden rounded-lg p-[1px] focus:outline-none"
       onClick={handleClick}
     >
